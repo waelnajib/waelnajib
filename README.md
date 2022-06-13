@@ -1,9 +1,9 @@
 # 💫About Me :
-Hi, there I'm a Full-stack & DevOps Engineer.
-I have a passion for crafting web applications with JavaScript, Python, Ruby &  architecting for the cloud.
-I have been working with ReactJS, NextJS, GatsbyJS & many other libraries & frameworks.
-I spent a tremendous amount of time delving into most of AWS services, I love AWS as it is revolutionizing the whole tech industry & I can't wait to see what it has to offer for years to come.
-I keep arming myself with knowledge every day.
+Hi, there I'm a Full-stack & DevOps Engineer. 💻
+I have a passion for crafting web applications with JavaScript, Python, Ruby &  architecting for the cloud.💚
+I have been working with ReactJS, NextJS, GatsbyJS & many other libraries & frameworks.💪
+I spent a tremendous amount of time delving into most of AWS services, I love AWS as it's revolutionizing the whole tech industry & I can't wait to see what it has to offer for years to come.💥
+I keep arming myself with knowledge every day.👌
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wael.najib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wael-n-171664129) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wael300025) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/htmlengineer) 
