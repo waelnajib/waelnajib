@@ -2,7 +2,8 @@
 Hi, there I'm a Full-stack & DevOps Engineer. 💻
 I have a passion for crafting web applications with JavaScript, Python, Ruby &  architecting for the cloud.💚
 I have been working with ReactJS, NextJS, GatsbyJS & many other libraries & frameworks.💪
-I spent a tremendous amount of time delving into most of AWS services, I love AWS as it's revolutionizing the whole tech industry & I can't wait to see what it has to offer for years to come.💥
+I spent a tremendous amount of time delving into most of AWS services, I love AWS as it's revolutionizing the whole tech industry 
+& I can't wait to see what it has to offer for years to come.💥
 I keep arming myself with knowledge every day.👌
 
 ## 🌐Socials
