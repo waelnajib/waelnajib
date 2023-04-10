@@ -2,7 +2,7 @@
 About Me :
 I'm a passionate Full-Stack & DevOps Engineer with a strong background in software development, continuous integration and deployment pipelines, AWS, its architecture, and infrastructure design.💻
 I love AWS as it's revolutionizing the whole tech industry & I can't wait to see what it has to offer for years to come.💥
-I have expertise in a variety of different programming languages and tools like Python, Git, Jenkins & Kubernetes.
+I have expertise in a variety of different programming languages and tools like Python, Git, Jenkins, Docker & Kubernetes.
 I enjoy tuning scalability, availability and configuring distributed systems to deliver the best results possible. 💪
 I also have an appetite for crafting web applications with React.JS & the lovely Gatsby framework.💜
 I keep arming myself with knowledge every day.👌
